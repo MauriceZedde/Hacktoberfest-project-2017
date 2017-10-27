@@ -2,4 +2,4 @@
 Hacktoberfest
 
 
-<img src="http://thecatapi.com/api/images/get?format=src&type=gif">
+![cat](http://thecatapi.com/api/images/get?format=src&type=gif)
